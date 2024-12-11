@@ -157,7 +157,8 @@ For information about the governance of the Node.js project, see
 #### TSC voting members
 
 <!--lint disable prohibited-strings-->
-
+*[Edumudi](https://github.com/edumudijyothi/node.git)
+ **Jyothi**<<jyothiedumudi880@gmail.com>>(she/her)
 * [aduh95](https://github.com/aduh95) -
   **Antoine du Hamel** <<duhamelantoine1995@gmail.com>> (he/him)
 * [anonrig](https://github.com/anonrig) -
